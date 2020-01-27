@@ -1,0 +1,9 @@
+# tags
+.tags
+cscope.*
+
+# build
+build/
+
+# swap
+*.swp
